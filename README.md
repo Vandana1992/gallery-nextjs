@@ -58,6 +58,7 @@ Note: Following enhancements needs to be done.
 2.Posts
 3.Handling Edge cases like when there is Albums
 4.Disabling Buttons when there is values selected from required fields.
+5.Styling the page especially in mobile Mode.
 
 
 

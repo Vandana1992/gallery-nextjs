@@ -38,4 +38,27 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 1.Home Page:
 <img width="1424" alt="Screen Shot 2024-01-21 at 10 45 05 PM" src="https://github.com/Vandana1992/gallery-nextjs/assets/26163865/ced817de-6388-4b71-8c12-c31ab6bccdfa">
 
+2.Fetch Photos By Albums
+<img width="1432" alt="Screen Shot 2024-01-21 at 10 47 19 PM" src="https://github.com/Vandana1992/gallery-nextjs/assets/26163865/2cd7d495-1bc4-435d-9a4f-a5a2f0f6825a">
+
+3.Fetch Photos by Users and their albums:
+<img width="1436" alt="Screen Shot 2024-01-21 at 10 48 12 PM" src="https://github.com/Vandana1992/gallery-nextjs/assets/26163865/8652643b-8770-4b43-bfe8-5edcdf399fa3">
+
+4.In Wide Screen- Grid View
+<img width="1436" alt="Screen Shot 2024-01-21 at 10 49 09 PM" src="https://github.com/Vandana1992/gallery-nextjs/assets/26163865/8626b3b0-4397-4dce-9dc7-3b4ba4d99b4d">
+
+
+5.List View in Mobile Phones.
+<img width="1436" alt="Screen Shot 2024-01-21 at 10 49 09 PM" src="https://github.com/Vandana1992/gallery-nextjs/assets/26163865/c6588886-2e5d-48bb-aa49-51d081c5b118">
+
+
+Note: Following enhancements needs to be done.
+1.Adding a loader so that when API is fetched user is notified with loader
+2.Posts
+3.Handling Edge cases like when there is Albums
+4.Disabling Buttons when there is values selected from required fields.
+
+
+
+
 

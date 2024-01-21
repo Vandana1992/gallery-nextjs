@@ -49,7 +49,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 5.List View in Mobile Phones.
-<img width="1436" alt="Screen Shot 2024-01-21 at 10 49 09 PM" src="https://github.com/Vandana1992/gallery-nextjs/assets/26163865/c6588886-2e5d-48bb-aa49-51d081c5b118">
+<img width="602" alt="Screen Shot 2024-01-21 at 10 50 52 PM" src="https://github.com/Vandana1992/gallery-nextjs/assets/26163865/fdf69f12-253b-463f-87dd-f7be1185d144">
+
 
 
 Note: Following enhancements needs to be done.
